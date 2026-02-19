@@ -1,39 +1,66 @@
-# 👋 Hi, I'm Spector-X
+# 👋 Hi, I'm Viraj Malaviya
+### (Also known as Spector-X)
+
+💻 Aspiring Cybersecurity Professional focused on becoming internship-ready through structured hands-on practice and real-world lab simulations.
+
+---
 
 ## 🚀 About Me
-Aspiring Cybersecurity Professional currently building a strong foundation in Linux, Networking, and Ethical Hacking.  
-Focused on hands-on practice, real-world security concepts, and structured lab-based learning.
+I am currently building a strong foundation in Linux, Networking, and Ethical Hacking.  
+My approach to learning is simple: understand the system deeply, test it practically, and document everything clearly.
 
-I believe in learning by building, testing, and understanding systems from the inside.
+I am focused on developing practical security skills that align with industry expectations and internship-level requirements.
 
 ---
 
 ## 🛠️ Technical Skills
+
+### 🔹 Linux
 - Linux Command Line
-- File Permissions & Special Permission Bits (SUID, SGID, Sticky Bit)
-- User & Group Management
-- Networking Fundamentals (TCP/IP, Ports, DNS, HTTP)
+- File Permissions (rwx)
+- Special Permission Bits (SUID, SGID, Sticky Bit)
+- User & Group Concepts
+- Directory Permission Behavior
+
+### 🔹 Networking
+- TCP/IP Fundamentals
+- Ports & Protocols
+- DNS Basics
+- HTTP/HTTPS Basics
+
+### 🔹 Programming & Tools
+- Python (Basic Projects)
 - Bash Basics
-- Security Concepts & Access Control
+- Git & GitHub
+- Security Practice Labs
 
 ---
 
 ## 📂 Projects
-- 🔐 Linux Permissions & Special Bits Lab
-- 🔑 Password Strength Checker (Python)
-- 📚 Security Practice Labs (In Progress)
 
-More projects focused on practical security implementation coming soon.
+- 🔐 **Linux Permissions & Special Bits Lab**  
+  Hands-on practical lab demonstrating Linux file permissions, SUID, SGID, and Sticky Bit behavior.
+
+- 🔑 **Password Strength Checker (Python)**  
+  A simple tool to analyze password strength using validation logic.
+
+- 📚 More security-focused projects coming soon...
 
 ---
 
 ## 📚 Currently Learning
-- Advanced Linux Internals
+- Advanced Linux Concepts
 - Networking Deep Dive
-- Security Tools & Enumeration Techniques
+- Security Enumeration Techniques
+- Practical Lab Simulations
+
+---
+
+## 🎯 Career Goal
+To secure a Cybersecurity Internship where I can apply Linux and networking fundamentals in real-world security environments.
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/viraj-malaviya/
-- Email: malaviyaviraj.28@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/viraj-malaviya/
+- 📧 Email: malaviyaviraj.28@gmail.com

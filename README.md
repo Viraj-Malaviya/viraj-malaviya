@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Spector-X
 
-<!--
-**spector-x/spector-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Cybersecurity Professional currently building a strong foundation in Linux, Networking, and Ethical Hacking.  
+Focused on hands-on practice, real-world security concepts, and structured lab-based learning.
 
-Here are some ideas to get you started:
+I believe in learning by building, testing, and understanding systems from the inside.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- Linux Command Line
+- File Permissions & Special Permission Bits (SUID, SGID, Sticky Bit)
+- User & Group Management
+- Networking Fundamentals (TCP/IP, Ports, DNS, HTTP)
+- Bash Basics
+- Security Concepts & Access Control
+
+---
+
+## 📂 Projects
+- 🔐 Linux Permissions & Special Bits Lab
+- 🔑 Password Strength Checker (Python)
+- 📚 Security Practice Labs (In Progress)
+
+More projects focused on practical security implementation coming soon.
+
+---
+
+## 📚 Currently Learning
+- Advanced Linux Internals
+- Networking Deep Dive
+- Security Tools & Enumeration Techniques
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/viraj-malaviya/
+- Email: malaviyaviraj.28@gmail.com

@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Viraj Malaviya
+#  Hi, I'm Viraj Malaviya
 
 ### (Also known as Spector-X)
 
-💻 **Cybersecurity Enthusiast** focused on building practical skills in Linux, Networking, Security Analysis, and Ethical Hacking through hands-on labs and real-world project development.
+ **Cybersecurity Enthusiast** focused on building practical skills in Linux, Networking, Security Analysis, and Ethical Hacking through hands-on labs and real-world project development.
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I am a Computer Engineering student actively developing practical cybersecurity skills aligned with SOC Analyst and Cybersecurity Internship roles.
 
@@ -21,7 +21,7 @@ I enjoy working with Linux environments, networking concepts, vulnerability asse
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 ## 🔹 Linux & System Fundamentals
 
@@ -50,27 +50,27 @@ I enjoy working with Linux environments, networking concepts, vulnerability asse
 
 ---
 
-# 📂 Projects
+#  Projects
 
-## 🔐 AI-Based Network Packet Analyzer
+## AI-Based Network Packet Analyzer
 
 Developed a real-time packet monitoring dashboard with traffic visualization and basic IDS-style alerting concepts using Python and Flask.
 
-## 🔐 Metasploitable 2 VAPT Lab
+##  Metasploitable 2 VAPT Lab
 
 Performed vulnerability assessment and practical exploitation testing in a controlled lab environment for learning security assessment methodologies.
 
-## 🔐 Linux Permissions & Special Bits Lab
+##  Linux Permissions & Special Bits Lab
 
 Hands-on practical lab demonstrating Linux permissions, SUID, SGID, and Sticky Bit behavior.
 
-## 🔑 Password Strength Checker (Python)
+##  Password Strength Checker (Python)
 
 Developed a Python-based password validation tool for analyzing password complexity and strength.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 * Advanced Linux Concepts
 * Networking Deep Dive
@@ -80,13 +80,13 @@ Developed a Python-based password validation tool for analyzing password complex
 
 ---
 
-# 🎯 Career Goal
+#  Career Goal
 
 To secure a Cybersecurity Internship where I can apply Linux, networking, and security fundamentals in real-world environments while continuously improving practical cybersecurity skills.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 🔗 LinkedIn:
 [www.linkedin.com/in/viraj-malaviya](http://www.linkedin.com/in/viraj-malaviya)
